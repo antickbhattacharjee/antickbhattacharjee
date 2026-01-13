@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/Portfolio-Visit-success?logo=netlify">
   </a>
   <a href="mailto:antickbh15122001@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?logo=gmail">
+    <img src="https://img.shields.io/badge/Email-antickbh15122001%40gmail.com-red?logo=gmail">
   </a>
 </p>
 
