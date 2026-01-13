@@ -1,116 +1,91 @@
-# 👋 Hi, I’m Antick Bhattacharjee  
+<h1 align="center">Hi 👋, I'm Antick Bhattacharjee</h1>
+<p align="center">
+  Corporate Trainer • Full Stack Developer • Educator
+</p>
 
-### Corporate Trainer | Full Stack Developer | Tech Explorer  
+<p align="center">
+  <a href="https://www.linkedin.com/in/antick-bhattacharjee-01004220b">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin">
+  </a>
+  <a href="https://antick-portfolio.netlify.app">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-success?logo=netlify">
+  </a>
+  <a href="mailto:antick@tce-india.org">
+    <img src="https://img.shields.io/badge/Email-Contact-red?logo=gmail">
+  </a>
+</p>
 
-I work at the intersection of **education, software development, and real-world problem solving**.  
-My focus is simple: teach clearly, build practically, and create systems that actually help people.
+<br/>
+
+<table>
+<tr>
+<td width="55%">
+
+### 👨‍🏫 About Me
+
+I’m a **Corporate Trainer and Full Stack Developer** focused on building practical software and teaching students how real systems work.
+
+- Trainer at **Webel Computer Training Institute**
+- Developer & Consultant at **BEST CRM APP**
+- Strong focus on **projects, logic, and real-world skills**
+
+I believe clean fundamentals matter more than shortcuts.
+
+</td>
+<td width="45%" align="center">
+
+<img src="https://raw.githubusercontent.com/ashutosh1919/ashutosh1919/master/assets/coding.gif" width="300"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🧭 What I Do
+## 🛠 Tech Stack
 
-🎓 **Corporate Trainer – Webel Computer Training Institute**  
-- Train students and professionals in **C, C++, Python, PHP, JavaScript**  
-- Strong focus on **logic building, projects, and industry-ready skills**
+**Languages**
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,php,js" />
+</p>
 
-💻 **Developer & Business Consultant – BEST CRM APP**  
-- Product development and feature planning  
-- Client-side problem analysis and solution design  
+**Frameworks & Libraries**
+<p>
+  <img src="https://skillicons.dev/icons?i=django,laravel,react,bootstrap,tailwind" />
+</p>
 
-🧠 **Core Belief**  
-> Learning sticks best when theory meets real projects.
-
----
-
-## 🛠️ Tech Stack (At a Glance)
-
-### Frontend
-```
-HTML5   ██████████
-CSS3    ██████████
-JS      ██████████
-React   ████████░░
-Bootstrap / Tailwind ██████████
-```
-
-### Backend
-```
-Python   ██████████
-Django   ██████████
-PHP      ██████████
-Laravel  ████████░░
-```
-
-### Database & Architecture
-```
-MySQL        ██████████
-MVC Pattern  ██████████
-REST APIs    ██████████
-```
-
-### Emerging Tech
-```
-Generative AI   ████████░░
-ML / NLP       ███████░░░
-```
+**Tools & Concepts**
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,git,linux,docker" />
+</p>
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🔹 Magic QR  
-**Smart QR-based Google Review System**  
-- Filters low-value reviews  
-- Boosts genuine ratings  
-- Designed for local businesses  
+**Magic QR**  
+Smart QR-based system to improve genuine Google reviews.
+
+**KPL Auction Hub**  
+Cricket auction simulation platform with real-time bidding logic.
+
+**Fake Link Detector**  
+ML + NLP based phishing link detection system.
+
+**REBOOK**  
+Used book resale platform built with React and Django.
 
 ---
 
-### 🔹 KPL Auction Hub  
-**Cricket Auction Simulation Platform (Django / PHP)**  
-- Real-time bidding logic  
-- Team purse & slot management  
-- Admin + team roles  
+## 🎯 What I Focus On
+
+- Teaching through real projects  
+- Clean backend architecture (MVC, REST)  
+- Student-friendly system design  
+- Practical AI integration  
 
 ---
 
-### 🔹 Fake Link Detector  
-**ML + NLP Based Security Project**  
-- Detects phishing and fake URLs  
-- Beginner-friendly ML architecture  
-- Practical cybersecurity use case  
-
----
-
-### 🔹 REBOOK  
-**Used Book Resale Platform**  
-- React frontend  
-- Django backend  
-- Student-focused marketplace  
-
----
-
-## 📊 GitHub Snapshot
-
-```text
-Languages Used     ██████████ Python, PHP, JavaScript
-Project Style      ██████████ Real-world, Teaching-friendly
-Learning Curve     ██████████ Continuous
-```
-
----
-
-## 🤝 Let’s Connect
-
-📧 **Email**: antick@tce-india.org  
-🔗 **LinkedIn**: https://www.linkedin.com/in/antick-bhattacharjee-01004220b  
-🌐 **Portfolio**: https://antick-portfolio.netlify.app  
-
----
-
-## ✨ Final Note
-
-If you’re a student, developer, or founder looking to learn, build, or collaborate,  
-feel free to explore my repositories or reach out.
-
-**Let’s build something meaningful.**
+<p align="center">
+  <strong>Let’s build skills that actually matter.</strong>
+</p>
