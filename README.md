@@ -10,7 +10,7 @@
   <a href="https://antick-portfolio.netlify.app">
     <img src="https://img.shields.io/badge/Portfolio-Visit-success?logo=netlify">
   </a>
-  <a href="mailto:antick@tce-india.org">
+  <a href="mailto:antickbh15122001@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?logo=gmail">
   </a>
 </p>
