@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Antick Bhattacharjee</h1>
 <p align="center">
-  Corporate Trainer • Full Stack Developer • Educator
+  Corporate Trainer | Full Stack Developer | Generative AI Enthusiast
 </p>
 
 <p align="center">
@@ -15,77 +15,71 @@
   </a>
 </p>
 
-<br/>
+---
 
-<table>
-<tr>
-<td width="55%">
+## 👨‍💻 About Me
 
-### 👨‍🏫 About Me
+I teach and build software that solves real problems.  
+My work spans backend systems, AI tools, and developer tools with practical outcomes.
 
-I’m a **Corporate Trainer and Full Stack Developer** focused on building practical software and teaching students how real systems work.
-
-- Trainer at **Webel Computer Training Institute**
-- Developer & Consultant at **BEST CRM APP**
-- Strong focus on **projects, logic, and real-world skills**
-
-I believe clean fundamentals matter more than shortcuts.
-
-</td>
-<td width="45%" align="center">
-
-<img src="https://raw.githubusercontent.com/ashutosh1919/ashutosh1919/master/assets/coding.gif" width="300"/>
-
-</td>
-</tr>
-</table>
+- Corporate Trainer @ **Webel Computer Training Institute**
+- Full Stack Developer & Consultant @ **BEST CRM APP**
+- Focus on real code, clean architecture, and usable systems
 
 ---
 
-## 🛠 Tech Stack
+## 🛠️ Tech Stack
 
-**Languages**
+### Languages
 <p>
   <img src="https://skillicons.dev/icons?i=c,cpp,python,php,js" />
 </p>
 
-**Frameworks & Libraries**
+### Frameworks & Libraries
 <p>
-  <img src="https://skillicons.dev/icons?i=django,laravel,react,bootstrap,tailwind" />
+  <img src="https://skillicons.dev/icons?i=django,laravel,react,fastapi" />
 </p>
 
-**Tools & Concepts**
+### Tools & Concepts
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,git,linux,docker" />
+  <img src="https://skillicons.dev/icons?i=mysql,git,linux,docker,ai" />
 </p>
 
 ---
 
 ## 🚀 Featured Projects
 
-**Magic QR**  
-Smart QR-based system to improve genuine Google reviews.
+### ⭐ Pinned Repositories  
+These show what I’m actively building and refining.
 
-**KPL Auction Hub**  
-Cricket auction simulation platform with real-time bidding logic.
+| Project | Brief Description | Tech |
+|---------|------------------|------|
+| **AI-Document-Intelligence** | AI tool to extract content from documents and automate workflows | Python, NLP |
+| **CV_Reader** | Reads CV, mocks interviews, highlights strengths & weaknesses | Python, ML |
+| **ECG_Analyser** | Analyzes ECG data and visualizes results | Python, Signal Processing |
 
-**Fake Link Detector**  
-ML + NLP based phishing link detection system.
-
-**REBOOK**  
-Used book resale platform built with React and Django.
+> Check out all projects at: https://github.com/antickbhattacharjee
 
 ---
 
-## 🎯 What I Focus On
+## 🚧 Other Work
 
-- Teaching through real projects  
-- Clean backend architecture (MVC, REST)  
-- Student-friendly system design  
-- Practical AI integration  
+I also build:
+- Real-world classroom examples
+- Training toolkits for learners
+- Backend services following MVC + REST
+- AI-assisted developer tools
+
+---
+
+## 🤝 Let’s Connect
+
+📬 **Email:** antick@tce-india.org  
+🔗 **LinkedIn:** https://www.linkedin.com/in/antick-bhattacharjee-01004220b  
+🌐 **Portfolio:** https://antick-portfolio.netlify.app
 
 ---
 
 <p align="center">
-  <strong>Let’s build skills that actually matter.</strong>
+  <strong>Keep learning. Build consistently. Ship often.</strong>
 </p>
