@@ -74,7 +74,7 @@ I also build:
 
 ## 🤝 Let’s Connect
 
-📬 **Email:** antick@tce-india.org  
+📬 **Email:** antickbh15122001@gmail.com  
 🔗 **LinkedIn:** https://www.linkedin.com/in/antick-bhattacharjee-01004220b  
 🌐 **Portfolio:** https://antick-portfolio.netlify.app
 
