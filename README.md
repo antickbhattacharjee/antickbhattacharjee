@@ -1,6 +1,6 @@
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=2D9CDB&center=true&vCenter=true&width=750&lines=Hi+there!+I’m+Antick+Bhattacharjee;Corporate+Trainer+%7C+Full+Stack+Developer;Mentor+%7C+AI+%7C+Software+Engineering" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2F80ED&center=true&vCenter=true&width=750&lines=Corporate+Trainer+%7C+Full+Stack+Developer;Project-Based+Learning+Mentor;Building+Practical+and+Scalable+Systems" />
 </p>
 
 <h1 align="center">Antick Bhattacharjee</h1>
