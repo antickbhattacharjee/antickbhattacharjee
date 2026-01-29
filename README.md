@@ -1,12 +1,14 @@
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2F80ED&center=true&vCenter=true&width=750&lines=Corporate+Trainer+%7C+Full+Stack+Developer;Project-Based+Learning+Mentor;Building+Practical+and+Scalable+Systems" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=2D9CDB&center=true&vCenter=true&width=750&lines=Hi+there!+I’m+Antick+Bhattacharjee;Corporate+Trainer+%7C+Full+Stack+Developer;Mentor+%7C+AI+%7C+Software+Engineering" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Antick Bhattacharjee</h1>
+<h1 align="center">Antick Bhattacharjee</h1>
 <p align="center">
-  Corporate Trainer • Full Stack Developer • Tech Educator
+  Corporate Trainer | Full Stack Developer | Tech Educator | AI Enthusiast
 </p>
+
+---
 
 <p align="center">
   <a href="https://www.linkedin.com/in/antick-bhattacharjee-01004220b">
@@ -22,70 +24,61 @@
 
 ---
 
-## 👨‍🏫 About Me
+## 💼 About Me
 
-I’m a **Corporate Trainer and Full Stack Developer** focused on teaching practical programming and building real-world applications.
+I’m a passionate **Corporate Trainer and Full Stack Developer** with a strong focus on practical knowledge, real-world systems, and empowering students to think like engineers.
 
-- Corporate Trainer at **Webel Computer Training Institute**
-- Developer & Business Consultant at **BEST CRM APP**
-- Strong believer in **learning by building**, not memorizing
+With experience teaching programming from the basics to advanced backend systems, I help learners transition from classroom concepts to real products.
 
-I specialize in guiding students and professionals from fundamentals to production-level systems.
+- Corporate Trainer @ **Webel Computer Training Institute**
+- Developer & Consultant @ **BEST CRM APP**
+- Advocate of **project-based learning** and clean system design
+
+I teach with clarity, break down complex ideas into simple mental models, and guide learners through building projects that matter.
+
+---
+
+## 🚀 What I Build & Teach
+
+I work across multiple domains including:
+
+- Full Stack Web Applications  
+- AI & Machine Learning Integrations  
+- Backend Systems (MVC, REST APIs)  
+- Project Architecture & Clean Code  
+- Developer Tooling & Deployment Workflows
 
 ---
 
 ## 🛠️ Technologies & Tools
 
----
-
-### ✅ Programming Languages & Core Concepts
+### ✅ Programming Languages & Concepts
 <p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,dsalgo" />
 </p>
-
-- Data Structures & Algorithms  
-- Problem Solving  
-- Object-Oriented Programming  
 
 ---
 
 ### 🎨 Front-End Technologies
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,jquery,bootstrap,tailwind,sass,react,redux,nextjs" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,tailwind,react,redux,nextjs" />
 </p>
-
-- Responsive UI Design  
-- Component-based Architecture  
-- State Management  
 
 ---
 
 ### ☕ Java Stack
 <p>
-  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven" />
+  <img src="https://skillicons.dev/icons?i=java,spring,hibernate" />
 </p>
 
-- Java Swing, JavaFX  
-- J2EE, JDBC, Servlets, JSP  
-- Spring Framework, Spring Boot  
-- Hibernate, JPA  
-- MVC Architecture, REST API  
-- Spring Security, OAuth2, JWT  
-- Microservices & Cloud-based Systems  
+Java · Swing · JavaFX · Servlets · JSP · Spring Boot · MVC · REST · Spring Security · OAuth2 · JWT · Microservices
 
 ---
 
 ### 🐍 Python Stack
 <p>
-  <img src="https://skillicons.dev/icons?i=python,django,flask,fastapi" />
+  <img src="https://skillicons.dev/icons?i=python,django,flask,fastapi,numpy,pandas,sklearn,tensorflow,keras,opencv" />
 </p>
-
-- NumPy, Pandas  
-- Matplotlib, Seaborn  
-- Scikit-Learn, TensorFlow, Keras  
-- OpenCV  
-- BeautifulSoup, Selenium  
-- Jupyter Notebook  
 
 ---
 
@@ -94,64 +87,65 @@ I specialize in guiding students and professionals from fundamentals to producti
   <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,nextjs" />
 </p>
 
-- Redux, React Router  
-- Mongoose  
-- REST API Development  
-- API Testing with Postman  
-
 ---
 
 ### 🗄️ Databases
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,sqlserver" />
 </p>
-
-- Oracle  
-- SQLite  
-- SQL Server  
 
 ---
 
-### 🧰 Software, DevOps & Cloud Tools
+### 🧰 Software & DevOps Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=vscode,eclipse,idea,androidstudio,git,github,docker,kubernetes,jenkins,aws" />
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,docker,kubernetes,jenkins,aws,postman" />
 </p>
-
-- Spring Tool Suite  
-- MySQL Workbench  
-- NetBeans  
-- JIRA  
-- Postman  
-- Heroku  
-- MS Office  
 
 ---
 
-## 🚀 Featured Projects
+## 📈 Expertise That Drives Results
+
+- Full-Stack Web & Backend Development  
+- MVC Architecture & REST API Design  
+- Enterprise-Ready Systems & Deployment  
+- Teaching & Mentoring with Live Projects
+
+---
+
+## 📌 Training & Mentorship
+
+I guide learners and professionals with:
+
+- Project-Based Learning Sessions  
+- Interview Preparation & Career Guidance  
+- Real-World System Design Workshops  
+- Python, Java, Web & AI Deep Dives
+
+---
+
+## 💻 Featured Projects
 
 ### 🔹 AI-Document-Intelligence  
-AI-powered system to extract, analyze, and process document data.
+AI tool to extract and structure insights from documents.
 
-### 🔹 CV_Reader  
-Smart CV analyzer that provides interview insights and improvement suggestions.
+### 🔹 CV Reader  
+Smart CV analyzer with interview insights.
 
-### 🔹 ECG_Analyser  
-ECG signal analysis and visualization tool using Python.
+### 🔹 ECG Analyser  
+Signal processing tool to visualize ECG data.
 
-➡️ View all projects:  
-👉 https://github.com/antickbhattacharjee
+📍 See all projects: https://github.com/antickbhattacharjee
 
 ---
 
-## 🎯 What I Focus On
+## ❤️ A Little About Me
 
-- Project-based teaching & mentoring  
-- Clean backend architecture (MVC, REST)  
-- Real-world AI integration  
-- Scalable and maintainable systems  
+I believe technology education should be practical and empowering. I enjoy helping learners build confidence, solve real problems, and grow as creators.
+
+When I’m not teaching or coding, I explore new tools, mentor developers, and build training resources that help programmers think deeply and build confidently.
 
 ---
 
 <p align="center">
-  <strong>Learn deeply. Build practically. Grow consistently.</strong>
+  Made with ❤️ by Antick Bhattacharjee
 </p>
