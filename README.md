@@ -71,13 +71,11 @@ I work across multiple domains including:
   <img src="https://skillicons.dev/icons?i=java,spring,hibernate" />
 </p>
 
-Java · Swing · JavaFX · Servlets · JSP · Spring Boot · MVC · REST · Spring Security · OAuth2 · JWT · Microservices
-
 ---
 
 ### 🐍 Python Stack
 <p>
-  <img src="https://skillicons.dev/icons?i=python,django,flask,fastapi,numpy,pandas,sklearn,tensorflow,keras,opencv" />
+  <img src="https://skillicons.dev/icons?i=python,django,flask,fastapi,sklearn,tensorflow,opencv" />
 </p>
 
 ---
